@@ -292,6 +292,8 @@ ul::before{
     .services .services-container{
         display: flex;
         flex-direction: column;
+        margin: 20px auto 0;
+        gap: 20px;
     }
 }
 /* =========End Services================ */
@@ -420,6 +422,7 @@ ul::before{
 .contact .text > p{
     font-size: 25px;
     font-weight: 800;
+    text-align: center;
     letter-spacing: -1px;
     margin: 0 auto;
 }
