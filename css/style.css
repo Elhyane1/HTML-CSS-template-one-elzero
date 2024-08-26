@@ -12,6 +12,9 @@
     font-family: "work sans", sans-serif;
     box-sizing: border-box;
 }
+html{
+    scroll-behavior: smooth;
+}
 /* end global rules*/
 
 /* start Compounenets  */
